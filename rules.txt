@@ -1,0 +1,61 @@
+The rules for FloppyPunk are built on top of the HexHack system and use two six sided dice for resolution.
+
+["adjudication"]Adjudication
+
+[purple::b]Intent:[-:-:-] What does the player want?
+[purple::b]Approach:[-:-:-] How does their character try to get it?
+[purple::b]Adjudicate:[-:-:-] Only after the player answers both questions, the Adjudicator should answer, for themself:
+
+1. Can this Intent+Approach [green]succeed[-]?
+2. Can it [red]fail[-]?
+3. Does failure have [purple::b]meaningful consequences[-:-:-]?
+
+If any answers are no, simple narration or discussion will do. If, [purple::b]only if[-], all three answers are yes, [purple::b]test[-:-:-].
+
+["characters"]Characters
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse massa sem, iaculis non aliquam id, dictum non odio. Donec sagittis rhoncus risus, vel efficitur nisi tristique sit amet. Morbi quis tortor eu orci sollicitudin vehicula. Duis ornare magna at tincidunt ornare. Nunc sed dolor id magna scelerisque faucibus. Vestibulum eget lorem commodo velit molestie lobortis. Morbi commodo vulputate urna in sollicitudin. Phasellus vel orci in tellus sagittis sagittis. Pellentesque lectus magna, luctus vitae enim nec, maximus fermentum nulla. Nullam ut nibh sit amet velit consectetur aliquet eget ac orci. Sed gravida lacinia justo at lobortis.
+
+Vestibulum pretium pharetra elementum. Nulla quis porttitor urna. In quis felis vel ante ultrices malesuada. Donec rutrum facilisis enim vel consectetur. Nam orci mi, laoreet ac mi at, malesuada bibendum erat. Pellentesque sed mattis ex. Ut ac lacus purus. Fusce ullamcorper accumsan lectus. Aliquam mi libero, hendrerit quis consectetur congue, ullamcorper quis nisi.
+
+Cras congue et metus eget vestibulum. Curabitur ut diam quam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas aliquet metus eget magna hendrerit, nec mollis nunc eleifend. Pellentesque a aliquet ligula. Praesent consequat a tortor ut sodales. In efficitur placerat neque vitae suscipit. Sed rhoncus lorem justo, quis cursus elit placerat molestie. Fusce et commodo erat.
+
+Integer vel elit vitae arcu gravida feugiat. Cras euismod porttitor ultrices. Integer consequat ante at orci condimentum ornare. Vivamus tempor quam lorem, a fermentum massa auctor vitae. Nunc et pulvinar dolor. Duis euismod, quam finibus tristique vehicula, leo eros tristique elit, ut porttitor felis nunc ut sapien. Sed et tortor convallis nisi convallis suscipit non ut nulla. Integer aliquet metus ut elementum ultrices.
+
+Integer varius elit tempus magna maximus faucibus. Aliquam sit amet sagittis leo. Phasellus et porttitor odio, vel semper est. Nulla ut feugiat sapien. Donec aliquam maximus ipsum ut ornare. Quisque ipsum nulla, commodo nec rutrum vel, aliquet at est. Morbi pharetra, turpis nec lacinia viverra, velit justo accumsan mauris, nec commodo arcu magna a augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam eu faucibus nulla.
+
+["magic"]Magic
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse massa sem, iaculis non aliquam id, dictum non odio. Donec sagittis rhoncus risus, vel efficitur nisi tristique sit amet. Morbi quis tortor eu orci sollicitudin vehicula. Duis ornare magna at tincidunt ornare. Nunc sed dolor id magna scelerisque faucibus. Vestibulum eget lorem commodo velit molestie lobortis. Morbi commodo vulputate urna in sollicitudin. Phasellus vel orci in tellus sagittis sagittis. Pellentesque lectus magna, luctus vitae enim nec, maximus fermentum nulla. Nullam ut nibh sit amet velit consectetur aliquet eget ac orci. Sed gravida lacinia justo at lobortis.
+
+Vestibulum pretium pharetra elementum. Nulla quis porttitor urna. In quis felis vel ante ultrices malesuada. Donec rutrum facilisis enim vel consectetur. Nam orci mi, laoreet ac mi at, malesuada bibendum erat. Pellentesque sed mattis ex. Ut ac lacus purus. Fusce ullamcorper accumsan lectus. Aliquam mi libero, hendrerit quis consectetur congue, ullamcorper quis nisi.
+
+Cras congue et metus eget vestibulum. Curabitur ut diam quam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas aliquet metus eget magna hendrerit, nec mollis nunc eleifend. Pellentesque a aliquet ligula. Praesent consequat a tortor ut sodales. In efficitur placerat neque vitae suscipit. Sed rhoncus lorem justo, quis cursus elit placerat molestie. Fusce et commodo erat.
+
+Integer vel elit vitae arcu gravida feugiat. Cras euismod porttitor ultrices. Integer consequat ante at orci condimentum ornare. Vivamus tempor quam lorem, a fermentum massa auctor vitae. Nunc et pulvinar dolor. Duis euismod, quam finibus tristique vehicula, leo eros tristique elit, ut porttitor felis nunc ut sapien. Sed et tortor convallis nisi convallis suscipit non ut nulla. Integer aliquet metus ut elementum ultrices.
+
+Integer varius elit tempus magna maximus faucibus. Aliquam sit amet sagittis leo. Phasellus et porttitor odio, vel semper est. Nulla ut feugiat sapien. Donec aliquam maximus ipsum ut ornare. Quisque ipsum nulla, commodo nec rutrum vel, aliquet at est. Morbi pharetra, turpis nec lacinia viverra, velit justo accumsan mauris, nec commodo arcu magna a augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam eu faucibus nulla.
+
+["ftl"]Traveling in GlitchSpace
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse massa sem, iaculis non aliquam id, dictum non odio. Donec sagittis rhoncus risus, vel efficitur nisi tristique sit amet. Morbi quis tortor eu orci sollicitudin vehicula. Duis ornare magna at tincidunt ornare. Nunc sed dolor id magna scelerisque faucibus. Vestibulum eget lorem commodo velit molestie lobortis. Morbi commodo vulputate urna in sollicitudin. Phasellus vel orci in tellus sagittis sagittis. Pellentesque lectus magna, luctus vitae enim nec, maximus fermentum nulla. Nullam ut nibh sit amet velit consectetur aliquet eget ac orci. Sed gravida lacinia justo at lobortis.
+
+Vestibulum pretium pharetra elementum. Nulla quis porttitor urna. In quis felis vel ante ultrices malesuada. Donec rutrum facilisis enim vel consectetur. Nam orci mi, laoreet ac mi at, malesuada bibendum erat. Pellentesque sed mattis ex. Ut ac lacus purus. Fusce ullamcorper accumsan lectus. Aliquam mi libero, hendrerit quis consectetur congue, ullamcorper quis nisi.
+
+Cras congue et metus eget vestibulum. Curabitur ut diam quam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas aliquet metus eget magna hendrerit, nec mollis nunc eleifend. Pellentesque a aliquet ligula. Praesent consequat a tortor ut sodales. In efficitur placerat neque vitae suscipit. Sed rhoncus lorem justo, quis cursus elit placerat molestie. Fusce et commodo erat.
+
+Integer vel elit vitae arcu gravida feugiat. Cras euismod porttitor ultrices. Integer consequat ante at orci condimentum ornare. Vivamus tempor quam lorem, a fermentum massa auctor vitae. Nunc et pulvinar dolor. Duis euismod, quam finibus tristique vehicula, leo eros tristique elit, ut porttitor felis nunc ut sapien. Sed et tortor convallis nisi convallis suscipit non ut nulla. Integer aliquet metus ut elementum ultrices.
+
+Integer varius elit tempus magna maximus faucibus. Aliquam sit amet sagittis leo. Phasellus et porttitor odio, vel semper est. Nulla ut feugiat sapien. Donec aliquam maximus ipsum ut ornare. Quisque ipsum nulla, commodo nec rutrum vel, aliquet at est. Morbi pharetra, turpis nec lacinia viverra, velit justo accumsan mauris, nec commodo arcu magna a augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam eu faucibus nulla.
+
+["items"]Items
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse massa sem, iaculis non aliquam id, dictum non odio. Donec sagittis rhoncus risus, vel efficitur nisi tristique sit amet. Morbi quis tortor eu orci sollicitudin vehicula. Duis ornare magna at tincidunt ornare. Nunc sed dolor id magna scelerisque faucibus. Vestibulum eget lorem commodo velit molestie lobortis. Morbi commodo vulputate urna in sollicitudin. Phasellus vel orci in tellus sagittis sagittis. Pellentesque lectus magna, luctus vitae enim nec, maximus fermentum nulla. Nullam ut nibh sit amet velit consectetur aliquet eget ac orci. Sed gravida lacinia justo at lobortis.
+
+Vestibulum pretium pharetra elementum. Nulla quis porttitor urna. In quis felis vel ante ultrices malesuada. Donec rutrum facilisis enim vel consectetur. Nam orci mi, laoreet ac mi at, malesuada bibendum erat. Pellentesque sed mattis ex. Ut ac lacus purus. Fusce ullamcorper accumsan lectus. Aliquam mi libero, hendrerit quis consectetur congue, ullamcorper quis nisi.
+
+Cras congue et metus eget vestibulum. Curabitur ut diam quam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas aliquet metus eget magna hendrerit, nec mollis nunc eleifend. Pellentesque a aliquet ligula. Praesent consequat a tortor ut sodales. In efficitur placerat neque vitae suscipit. Sed rhoncus lorem justo, quis cursus elit placerat molestie. Fusce et commodo erat.
+
+Integer vel elit vitae arcu gravida feugiat. Cras euismod porttitor ultrices. Integer consequat ante at orci condimentum ornare. Vivamus tempor quam lorem, a fermentum massa auctor vitae. Nunc et pulvinar dolor. Duis euismod, quam finibus tristique vehicula, leo eros tristique elit, ut porttitor felis nunc ut sapien. Sed et tortor convallis nisi convallis suscipit non ut nulla. Integer aliquet metus ut elementum ultrices.
+
+Integer varius elit tempus magna maximus faucibus. Aliquam sit amet sagittis leo. Phasellus et porttitor odio, vel semper est. Nulla ut feugiat sapien. Donec aliquam maximus ipsum ut ornare. Quisque ipsum nulla, commodo nec rutrum vel, aliquet at est. Morbi pharetra, turpis nec lacinia viverra, velit justo accumsan mauris, nec commodo arcu magna a augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam eu faucibus nulla.
